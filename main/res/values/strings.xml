@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudentInfoSqlite</string>
+    <array name="array">
+        <item>Update</item>
+        <item>Delete</item>
+    </array>
+</resources>
